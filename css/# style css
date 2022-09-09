@@ -1,0 +1,9 @@
+.lanscape{
+    width: 50%;
+    height: auto;
+}
+
+.icon{
+    width: 200px;
+    height: auto;
+}
